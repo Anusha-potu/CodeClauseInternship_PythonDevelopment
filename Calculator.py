@@ -1,11 +1,11 @@
-# Import  libraries
+
 from tkinter import *
 from tkinter import ttk, Tk
 
 # Define colors for the GUI
-co1 = "gray4"  # black
-co2 = "orange"  #blue
-co3 = "gray99" # wite
+co1 = "gray4"  
+co2 = "orange" 
+co3 = "gray99" 
 
 # Function to based on user input
 def entering_values(number):
